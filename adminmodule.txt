@@ -1,0 +1,19 @@
+Admin can perform add/update/delete and search following module :
+
+course module
+semester module
+subject module
+Student module
+exam module
+result module
+the attendance module
+faculty module
+college info module
+download module
+event module
+news module
+login module & user type module
+Admin can create an online blacklist using student attendance
+Admin can upload student data as excel file as well as syllabus, blacklist, exam time table, student result & attendance, and fresh photo gallery.
+
+Faculty:
